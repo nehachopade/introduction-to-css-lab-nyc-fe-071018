@@ -9,7 +9,7 @@ of content is minimal. HTML's ability to style is pretty much limited to
 "pretty good" defaults.
 
 In order to further customize the style, appearance, and interactive behavior
-of our websites, we turn to Cascading Style Sheets, or CSS. In this lab, we
+of our websites, we turn to Cashttps://learn.co/tracks/skills-front-end-web-development/forms-input-and-multimedia-tags/introduction-to-css/introduction-to-css-lab#cading Style Sheets, or CSS. In this lab, we
 will work on implementing CSS declarations in our HTML.
 
 ## Objectives
