@@ -8,8 +8,9 @@ body {
 div {
   width: 1600px;
   margin: auto;
-
-  padding: 30px;
+  font-family: "Helvetica Neue";
+  background: white;
+  padding: 10px;
   /* Your code here! */
 }
 
